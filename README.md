@@ -1,4 +1,4 @@
-Bonne soirée bbm 💕
+<!DOCTYPE html>
 <html lang="fr">
 <head>
 <meta charset="UTF-8">
@@ -263,4 +263,4 @@ footer {
 </div>
 
 </body>
-</html>
+</html 
